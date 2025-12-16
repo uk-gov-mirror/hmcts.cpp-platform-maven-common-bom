@@ -4,10 +4,11 @@ All notable changes to this project will be documented in this file, which follo
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
+
+## [17.104.0] - 2025-12-16
+### Changed
 - Enable gitleaks PR scan
 - Enable repo public visibility
-
-## [17.104.0-M2] - 2025-07-24
 ### Security
 - Update Commons Fileupload version to **1.6.0** to fix **security vulnerability CVE-2025-48976**
   Detail: https://cwe.mitre.org/data/definitions/770.html
